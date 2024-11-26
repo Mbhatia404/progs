@@ -1,0 +1,9 @@
+var a = prompt("enter your name")
+var guestList = ["mayank", "angela", "hero", "zero"]
+if(guestList.includes(a))
+{
+    alert("Welcome "+ a)
+}
+else{
+    alert("Better luck next time!")
+}
