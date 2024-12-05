@@ -1,0 +1,17 @@
+Difference between the while and the for loop
+
+
+- While loop is basically used to check the state
+
+while (//something is true)
+{
+// do something
+}
+
+
+for Loop is mainly used for iterating
+
+for(i=0; i<2; i++)
+{ 
+// do something
+}
